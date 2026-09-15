@@ -744,32 +744,3 @@ to help users perform faster and more informed real estate research.
 ## Vaishnav Wagh
 
 **Machine Learning Engineer | AI Engineer | Deep Learning Engineer**
-
-### Areas of Interest
-
-```text
-Machine Learning
-Deep Learning
-Generative AI
-Large Language Models
-RAG
-Agentic AI
-```
-
----
-
-## ⭐ Support the Project
-
-If you find this project useful for learning **Generative AI, RAG, LangChain, ChromaDB, or LLM applications**, consider giving the repository a ⭐.
-
----
-
-<div align="center">
-
-### 🏠 Real Estate Assistant Using RAG
-
-**Research → Retrieve → Generate → Verify → Make Informed Decisions**
-
-Built with ❤️ using **Python + LangChain + ChromaDB + HuggingFace + Groq + Streamlit**
-
-</div>
