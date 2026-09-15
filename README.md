@@ -16,7 +16,7 @@ relevant information from research URLs and uses that context to generate ground
 
 ## Project Demo
 
-![Project Demo](Screenshot 2026-08-18 221437.png)
+![image]()
 
 ### ✨ What the application provides
 
