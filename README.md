@@ -14,6 +14,10 @@ Instead of relying only on an LLM's pretrained knowledge, the application:
 
 relevant information from research URLs and uses that context to generate grounded answers.
 
+## Project Demo
+
+![Project Demo](Screenshot 2026-08-18 221437.png)
+
 ### ✨ What the application provides
 
 - 🔗 URL-based real estate research
