@@ -16,7 +16,7 @@ relevant information from research URLs and uses that context to generate ground
 
 ## Project Demo
 
-![image](Screenshot 2026-08-18 221437.png)
+![image](https://github.com/waghvaishnav/Gen-AI-Project-Real-Estate-Assistant-Using-Rag/blob/1ae3c2d9051b70e0ab7e129ed07818e0519710fd/Screenshot%202026-08-18%20221437.png)
 
 ### ✨ What the application provides
 
